@@ -1,13 +1,10 @@
-<div style="width: 100% !important; text-align: center !important; margin-bottom: 50px; !important">
 <a target="_blank" href="https://idsl.cs.ntust.edu.tw/">
-<img src="https://raw.githubusercontent.com/NTUST-IDSL/.github/main/Profile/idsl_logo.png" width="100">
+<img src="https://idsl.cs.ntust.edu.tw/assets/img/logo/idsl_logo.png" width="100">
 </a>
     
-<h5 style="margin: 0px !important; color: #999 !important; margin-top: 20px !important">Dept. Information Management, NTUST</h5>
-<h1 style="border: none !important; margin: 0px !important; padding: 5px 0px !important;">整合數位服務實驗室</h1>
-<h3 style="margin: 0px !important; color: #666 !important;">Integrated Digital Services Laboratory</h3>
-</div>
-
+<p style="margin: 0px; color: #999; margin-top: 20px; font-size: .875em;">Dept. Information Management, NTUST</p>
+<p style="border: none; margin: 0px; padding: 5px 0px; font-size: 2em; font-weight: 600;">整合數位服務實驗室</p>
+<p style="margin: 0px; color: #666; font-size: 1.25em;  font-weight: 600;">Integrated Digital Services Laboratory</p>
 
 ## Contact us
 * Official Website: [IDSL 整合數位服務實驗室](https://idsl.cs.ntust.edu.tw/)
