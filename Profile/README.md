@@ -1,4 +1,4 @@
-[![](https://idsl.cs.ntust.edu.tw/assets/img/logo/idsl_logo.png =100x)](https://idsl.cs.ntust.edu.tw/)
+[![](https://github.com/NTUST-IDSL/.github/blob/main/Profile/header.jpg?raw=true)](https://idsl.cs.ntust.edu.tw/)
 
 <h5>
     
