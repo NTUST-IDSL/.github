@@ -1,4 +1,4 @@
-[![](https://github.com/NTUST-IDSL/.github/blob/main/Profile/header.jpg?raw=true)](https://idsl.cs.ntust.edu.tw/)
+[![](https://raw.githubusercontent.com/NTUST-IDSL/.github/main/Profile/header.jpg)](https://idsl.cs.ntust.edu.tw/)
 
 <h5>
     
